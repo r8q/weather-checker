@@ -13,11 +13,7 @@
 🤖
 **WORKING Turkey** ✔️
 <br>
-![Example screenshot](https://github.com/r8q/osint-phone/blob/main/Screenshot_2.png)
-<br>
-**WORKINNG USA**✔️ 
-<br>
-![Example screenshot](https://github.com/r8q/osint-phone/blob/main/Screenshot_1%20(2).png)
+![Example screenshot](https://github.com/r8q/weather-checker/blob/main/Screenshot_1.png)
 <br>
 ## Technologies 
 🔮
